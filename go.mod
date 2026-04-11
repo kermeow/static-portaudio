@@ -1,3 +1,3 @@
-module github.com/gordonklaus/portaudio
+module github.com/kermeow/static-portaudio
 
-go 1.21.3
+go 1.26.2
